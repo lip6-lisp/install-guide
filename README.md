@@ -1,5 +1,3 @@
-Install-guide
+OpenLISP data+control plane installation guide
 =============
-Introduction step by step of installation and configuration of the xTR using:
-OpenLISP data plane
-OpenLISP control plane
+Step by step guidelines to install and configure an xTR using the OpenLISP data and control planes.
